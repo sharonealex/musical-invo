@@ -1,0 +1,22 @@
+{
+  "name": "musical-invo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sharonealex/musical-invo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sharonealex/musical-invo/issues"
+  },
+  "homepage": "https://github.com/sharonealex/musical-invo#readme",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
